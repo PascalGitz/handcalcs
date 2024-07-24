@@ -3,11 +3,9 @@ GREEK_LOWER = {
     "beta": "\\beta",
     "gamma": "\\gamma",
     "delta": "\\delta",
-    "epsilon": "\\epsilon",
-    "varepsilon": "\\varepsilon",
+    "epsilon": "\\varepsilon",
     "zeta": "\\zeta",
     "theta": "\\theta",
-    "vartheta": "\\vartheta",
     "iota": "\\iota",
     "kappa": "\\kappa",
     "mu": "\\mu",
@@ -15,21 +13,24 @@ GREEK_LOWER = {
     "xi": "\\xi",
     "omicron": "\\omicron",
     "pi": "\\pi",
-    "varpi": "\\varpi",
     "rho": "\\rho",
-    "varrho": "\\varrho",
     "sigma": "\\sigma",
-    "varsigma": "\\varsigma",
     "tau": "\\tau",
     "upsilon": "\\upsilon",
-    "phi": "\\phi",
-    "varphi": "\\varphi",
+    "phi": "\\varphi",
     "chi": "\\chi",
     "omega": "\\omega",
     "eta": "\\eta",
     "psi": "\\psi",
     "lamb": "\\lambda",
+    "Diam": "\\oslash",
+    "infty": "\\infty",
+    "approx":"\\sim"
+
 }
+
+
+
 
 GREEK_UPPER = {
     "Alpha": "\\Alpha",
